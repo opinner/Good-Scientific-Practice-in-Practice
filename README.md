@@ -12,7 +12,7 @@ This document curates (digital) resources to various topics. In their sum, these
 
 This document presents a wide range of content, from the very basics of scientific programming to heavily specialized references, which are much more difficult to find from a simple google search. 
 
-Many things are linked in this document, but every resource is marked by an emoji, which also signals an estimate for the time it takes to work through it and learn how to use it. The effort is categorized as ⏱️ (*Short)*, ⌛ *(Medium)* or 🕰️ *(Long)*. With a great deal of interpretation, they could mean (*minutes), (hours), *or* (days), *but this is guaranteed to be inaccurate. 
+Many things are linked in this document, but every resource is marked by an emoji, which also signals an estimate for the time it takes to work through it and learn how to use it. The effort is categorized as ⏱️ (*Short*), ⌛ *(Medium*) or 🕰️ (*Long*). With a great deal of interpretation, they could mean (*minutes*), (*hours*), or (*days*), but this is guaranteed to be inaccurate. 
 
 If you are a new PhD student, your main task is to fill in the Topic Wish list. If you have specific questions, write an email to anyone on the contributor list, at least they can point you to the right direction/person. Although there is some text written already, this is a work in progress and multiple sections are very short or even completely empty. They will be hopefully filled in the future. Requesting a certain topic should in the best case accelerate that process.
 
