@@ -1,6 +1,5 @@
 # Good Scientific Practice — in Practice
 
-## Disclaimer
 > [!IMPORTANT]  
 > This is a copy of an ongoing work in my current research project.
 > The vast majority of this work was written by me, but single links were recommended by other project members.
