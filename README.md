@@ -1,28 +1,20 @@
-<!-----
+# Good Scientific Practice — in Practice
 
+## Introduction
 
+This document curates (digital) resources to various topics. In their sum, these resources describe something like *Good Scientific Practice*. The idea is to ease the entry into climate research. But this implies by no means that experienced climate researchers always follow good scientific practice. Some do it more, some do it less. 
 
-Conversion time: 1.388 seconds.
+This document presents a wide range of content, from the very basics of scientific programming to heavily specialized references, which are much more difficult to find from a simple google search. 
 
+Many things are linked in this document, but every resource is marked by an emoji, which also signals an estimate for the time it takes to work through it and learn how to use it. The effort is categorized as ⏱️ (*Short)*, ⌛ *(Medium)* or 🕰️ *(Long)*. With a great deal of interpretation, they could mean (*minutes), (hours), *or* (days), *but this is guaranteed to be inaccurate. 
 
-Using this Markdown file:
+If you are a new PhD student, your main task is to fill in the [Topic Wish list](#topic-wish-list-4) on the following page. If you have specific questions, write an email to anyone on the contributor list, at least they can point you to the right direction/person. Although there is some text written already, this is a work in progress and multiple sections are very short or even completely empty. They will be hopefully filled in the future. Requesting a certain topic should in the best case accelerate that process.
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+Everybody else should make their knowledge available. Feel free to change or add anything in this document, including titles, structure, and text, especially if you think you can explain it better or know a better resource. But maybe explain your change in a comment, if the Why is not obvious. Because a nondescript list of links is basically useless, each resource should come with an explanation (between a short sentence to a paragraph) and be marked with the effort it requires (⏱️, ⌛, 🕰️). And at last, add your name to the list of contributors.
 
-Conversion notes:
+This document was conceptualized at the [TRR181](https://www.trr-energytransfers.de/) retreat 2024.
 
-* Docs to Markdown version 1.0β40
-* Thu Oct 24 2024 09:05:39 GMT-0700 (PDT)
-* Source doc: Good Scientific Practice — in Practice
-* Tables are currently converted to HTML tables.
------>
-
-
-
-## Good Scientific Practice — in Practice
+## Tables of Content 
 
 - [Introduction](#introduction)
 - [Topic Wish list](#topic-wish-list)
@@ -54,29 +46,6 @@ Conversion notes:
   * [Bad Scientific Practice](#bad-scientific-practice)
   * [Interpersonal/Sexual Misconduct](#interpersonal-sexual-misconduct)
 - [List of TRR-specific resources](#list-of-trr-specific-resources)
-
-
-## Introduction
-
-This document curates (digital) resources to various topics. In their sum, these resources describe something like *Good Scientific Practice*. The idea is to ease the entry into climate research. But this implies by no means that experienced climate researchers always follow good scientific practice. Some do it more, some do it less. 
-
-This document presents a wide range of content, from the very basics of scientific programming to heavily specialized references, which are much more difficult to find from a simple google search. 
-
-Many things are linked in this document, but every resource is marked by an emoji, which also signals an estimate for the time it takes to work through it and learn how to use it. The effort is categorized as ⏱️ (*Short)*, ⌛ *(Medium)* or 🕰️ *(Long)*. With a great deal of interpretation, they could mean (*minutes), (hours), *or* (days), *but this is guaranteed to be inaccurate. 
-
-If you are a new PhD student, your main task is to fill in the [Topic Wish list](#topic-wish-list-4) on the following page. If you have specific questions, write an email to anyone on the contributor list, at least they can point you to the right direction/person. Although there is some text written already, this is a work in progress and multiple sections are very short or even completely empty. They will be hopefully filled in the future. Requesting a certain topic should in the best case accelerate that process.
-
-Everybody else should make their knowledge available. Feel free to change or add anything in this document, including titles, structure, and text, especially if you think you can explain it better or know a better resource. But maybe explain your change in a comment, if the Why is not obvious. Because a nondescript list of links is basically useless, each resource should come with an explanation (between a short sentence to a paragraph) and be marked with the effort it requires (⏱️, ⌛, 🕰️). And at last, add your name to the list of contributors.
-
-This document was conceptualized at the [TRR181](https://www.trr-energytransfers.de/) retreat 2024.
-
-
-## Topic Wish list
-
-
-
-- [ ] This could have been a topic suggestion
-
 
 ## Programming
 
