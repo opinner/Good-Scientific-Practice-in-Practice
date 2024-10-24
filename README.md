@@ -3,7 +3,8 @@
 > [!IMPORTANT]  
 > This is a copy of an ongoing work in my current research project.
 > The vast majority of this work was written by me, but single links were recommended by other project members.
-> It is copied here to make it available to people outside the project and also to connect it publicly with my name. 
+> It is copied here to make it available to people outside the project and also to connect it publicly with my name.
+> The transfer to Github broke some the TOC. This will be corrected in the future.
 
 ## Introduction
 
