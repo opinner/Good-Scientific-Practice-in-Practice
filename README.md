@@ -1,5 +1,11 @@
 # Good Scientific Practice — in Practice
 
+## Disclaimer
+> [!IMPORTANT]  
+> This is a copy of an ongoing work in my current research project.
+> The vast majority of this work was written by me, but single links were recommended by other project members.
+> It is copied here to make it available to people outside the project and also to connect it publicly with my name. 
+
 ## Introduction
 
 This document curates (digital) resources to various topics. In their sum, these resources describe something like *Good Scientific Practice*. The idea is to ease the entry into climate research. But this implies by no means that experienced climate researchers always follow good scientific practice. Some do it more, some do it less. 
@@ -8,7 +14,7 @@ This document presents a wide range of content, from the very basics of scientif
 
 Many things are linked in this document, but every resource is marked by an emoji, which also signals an estimate for the time it takes to work through it and learn how to use it. The effort is categorized as ⏱️ (*Short)*, ⌛ *(Medium)* or 🕰️ *(Long)*. With a great deal of interpretation, they could mean (*minutes), (hours), *or* (days), *but this is guaranteed to be inaccurate. 
 
-If you are a new PhD student, your main task is to fill in the [Topic Wish list](#topic-wish-list-4) on the following page. If you have specific questions, write an email to anyone on the contributor list, at least they can point you to the right direction/person. Although there is some text written already, this is a work in progress and multiple sections are very short or even completely empty. They will be hopefully filled in the future. Requesting a certain topic should in the best case accelerate that process.
+If you are a new PhD student, your main task is to fill in the Topic Wish list. If you have specific questions, write an email to anyone on the contributor list, at least they can point you to the right direction/person. Although there is some text written already, this is a work in progress and multiple sections are very short or even completely empty. They will be hopefully filled in the future. Requesting a certain topic should in the best case accelerate that process.
 
 Everybody else should make their knowledge available. Feel free to change or add anything in this document, including titles, structure, and text, especially if you think you can explain it better or know a better resource. But maybe explain your change in a comment, if the Why is not obvious. Because a nondescript list of links is basically useless, each resource should come with an explanation (between a short sentence to a paragraph) and be marked with the effort it requires (⏱️, ⌛, 🕰️). And at last, add your name to the list of contributors.
 
