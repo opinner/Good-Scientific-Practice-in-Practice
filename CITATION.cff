@@ -5,6 +5,11 @@ authors:
   orcid: "https://orcid.org/0000-0002-4314-6232"
 - name: "members of TRR 181 – Energy Transfers in Atmosphere and Ocean"
   website: "https://www.trr-energytransfers.de/"
+contact:
+  - affiliation: "Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)"
+    email: ole.pinner@awi.de
+    family-names: Pinner
+    given-names: Ole
 title: "Good Scientific Practice - in Practice"
 version: 1.0
 date-released: 2024-10-25
@@ -14,4 +19,4 @@ keywords:
   - "Good scientific practice"
   - "Climate Sciences"
   - "Oceanography"
-  - research
+  - "research"
