@@ -1,0 +1,17 @@
+message: "If you refer to this document, please cite it as below."
+authors:
+- family-names: "Pinner"
+  given-names: "Ole"
+  orcid: "https://orcid.org/0000-0002-4314-6232"
+- name: "members of TRR 181 – Energy Transfers in Atmosphere and Ocean"
+  website: "https://www.trr-energytransfers.de/"
+title: "Good Scientific Practice - in Practice"
+version: 1.0
+date-released: 2024-10-25
+url: "https://github.com/opinner/Good-Scientific-Practice-in-Practice"
+cff-version: 1.2.0
+keywords:
+  - "Good scientific practice"
+  - "Climate Sciences"
+  - "Oceanography"
+  - research
